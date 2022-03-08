@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\"(oo)""
+cat/etc/passwd
